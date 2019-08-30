@@ -11,6 +11,7 @@
  *  on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License
  *  for the specific language governing permissions and limitations under the License.
  *
+ * Just getting my copy...
  */
 metadata {
 	definition (name: "Remotec ZRC-90 Scene Master", namespace: "erocm123", author: "Eric Maycock", vid:"generic-button") {
